@@ -1,2 +1,2 @@
 # RobOLP
-A robot off-line program project.
+This is a robot off-line programming software, using SolidWork API.
